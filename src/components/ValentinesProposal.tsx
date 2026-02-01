@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import Fireworks from "@fireworks-js/react";
 import Image from "next/image";
 
-const playfairDisplay = Playfairß_Display({
+const playfairDisplay = Playfair_Display({
   display: "swap",
   subsets: ["latin"],
 });
@@ -131,7 +131,7 @@ export default function ValentinesProposal() {
             <h2
               className={`text-5xl font-semibold mb-8 ${playfairDisplay.className}`}
             >
-              Kucchi, will you be my Valentine?ß
+              Kucchi, will you be my Valentine?
             </h2>
             <Image
               src="/sad_hamster.png"
