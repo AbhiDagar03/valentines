@@ -12,7 +12,7 @@ const playfairDisplay = Playfairß_Display({
 // 36 images
 const images = [
   "/game-photos/1.avif",
-  "/game-photos/2.avif",ß
+  "/game-photos/2.avif",
   "/game-photos/3.avif",
   "/game-photos/4.avif",
   "/game-photos/5.avif",
