@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react";
-import { Playfair_Display } from "next/font/google";
 import { motion, AnimatePresence } from "framer-motion";
 import Fireworks from "@fireworks-js/react";
 import Image from "next/image";
